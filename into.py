@@ -2,4 +2,4 @@
 
 # Added feature_2 and in python file
 
-# added "new" at line 5
+# added "conflict" at line 5
